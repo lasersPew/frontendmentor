@@ -1,0 +1,4 @@
+[submodule "designs/qr-code"]
+	path = designs/qr-code
+	url = git@kuya-carlo.github.com:kuya-carlo/frontendmentor.git
+	branch = qr-code
