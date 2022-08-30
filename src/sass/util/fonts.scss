@@ -1,0 +1,30 @@
+$white: hsl(0%, 0%, 100%);
+$light-gray: hsl(212, 45%, 89%);
+$grayish-blue: hsl(220, 15%, 55%);
+$deep-blue: hsl(218, 44%, 22%);
+$main-text: $deep-blue;
+$paragraph-text: $grayish-blue;
+
+//QR Image
+img.qr-img {
+    border-radius: 5%;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+//QR Text
+p.main-text, p.paragraph, p{
+    font-family: Outfit;
+}
+
+.main-text {
+    font-weight: 700;
+    color: $main-text;
+    font-size: 1rem;
+}
+
+.paragraph {
+    font-weight: 400;
+    color: $paragraph-text;
+    font-size: 0.75rem;
+}

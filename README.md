@@ -1,3 +1,0 @@
-## src
-
-Source branch template
